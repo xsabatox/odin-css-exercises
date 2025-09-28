@@ -1,0 +1,26 @@
+/* Add CSS Styling */
+
+/* Class selectors */
+
+.odds, .third {
+  background-color: rgb(250, 165, 165);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.third {
+  font-size: 24px;
+}
+
+/* ID selectors */
+
+#second {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+  font-family: "Times New Roman", serif;
+}
+
+#forth {
+  background-color: rgb(110, 255, 145);
+  font-size: 24px;
+  font-weight: bold;
+}
